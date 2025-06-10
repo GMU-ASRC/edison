@@ -5,6 +5,14 @@ If you're looking for helpful information about the robot, check out the Wiki!
 
 A helpful base with convenient aliases to common functions is available in `edbase.edpy`.
 
+## Manufacturer Resources
+
+* [EdMat robot activity mat](https://meetedison.com/edmat/)
+* [Edison Barcode Mat](https://meetedison.com/barcodes/) for setting pre-loaded programs without a computer
+* [EdPy programming language](https://meetedison.com/robot-programming-software/edpy/)
+
+---
+
 Note: We no longer use the Edison v3 robots as the programming language used 
 for them is too limiting.
 
